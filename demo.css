@@ -1,0 +1,99 @@
+.page-footer .container {
+  width: 80%;
+  min-height: 100px;
+  margin: auto;
+}
+
+.page-footer .container .page-footer-bot {
+  padding: 20px 0;
+}
+
+.page-footer .container .page-footer-bot .flex-list {
+  width: 80%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.page-footer .container .page-footer-bot .flex-list .item a {
+  display: block;
+}
+
+.page-footer .container .page-footer-bot .flex-list .item a img {
+  width: 70%;
+}
+
+.page-footer .container .page-footer-bot .pure-menu-horizontal {
+  white-space: unset;
+}
+
+.page-footer .container .page-footer-bot .pure-menu-item {
+  padding: 10px 0;
+  white-space: normal;
+}
+
+.page-footer .container .page-footer-bot .pure-menu-item .logo {
+  width: 150px;
+}
+
+.page-footer .container .page-footer-bot .pure-menu-item .logo img {
+  width: 100%;
+}
+
+.page-footer .container .page-footer-bot .pure-menu-item .icon {
+  margin-right: 5px;
+}
+
+.page-footer .container .page-footer-bot .pure-menu-link {
+  padding: 0;
+  color: black;
+}
+
+.page-footer .container .page-footer-bot .pure-menu-link:hover {
+  background-color: white;
+}
+
+.page-footer .container .page-footer-bot .bot__col {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.page-footer .container .page-footer-bot .bot__col__title {
+  font-size: 18px;
+  margin: 15px 0;
+}
+
+.page-footer .container .page-footer-bot .bot__col-4_2 .flex-list {
+  width: 100%;
+}
+
+.page-footer .container .page-footer-bot .bot__col-4_2 .flex-list .item a img {
+  width: 95%;
+}
+
+.page-footer .container .page-footer-bot .bot__col-5_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=demo.css.map */
